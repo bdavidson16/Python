@@ -1,4 +1,12 @@
 # Python
+Here I document a summary of my SQL projects with a description of each project and what skills I showcase within the project.
+
+## 📚 Table of Contents
+- [Data Engineering](#data-engineering)
+- [SQL](#sql)
+- [Tableau](#power-bi)
+
+
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
